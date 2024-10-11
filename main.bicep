@@ -2,6 +2,7 @@
 @allowed([
   'nonprod'
   'prod'
+  'uat'
 ])
 param environmentType string = 'nonprod'
 @sys.description('The PostgreSQL Server name')
