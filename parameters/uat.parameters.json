@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "environmentType": {
-            "value": "nonprod"
+            "value": "uat"
         },
         "postgreSQLServerName": {
-            "value": "evaks-dbsrv-dev"
+            "value": "evaks-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "evaks-db-dev"
+            "value": "evaks-db-uat"
         },
         "appServicePlanName": {
-            "value": "evaks-asp-dev"
+            "value": "evaks-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "evaks-be-dev"
+            "value": "evaks-be-uat"
         },
         "appServiceAppName": {
-            "value": "evaks-fe-dev"
+            "value": "evaks-fe-uat"
         },
         "location": {
             "value": "North Europe"
